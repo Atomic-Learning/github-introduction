@@ -9,8 +9,8 @@
     ],
     "duration": 1,
     "prerequisites": [
-        "slug": "git-introduction",
-        "slug": "version-control-repositories"
+        "git-introduction",
+        "version-control-repositories"
     ],
     "related": [
     ]
