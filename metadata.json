@@ -9,14 +9,8 @@
     ],
     "duration": 1,
     "prerequisites": [
-        {
-            "slug": "git-introduction",
-            "description": "An introduction to Git, the version control system that underpins GitHub."
-        },
-        {
-            "slug": "version-control-repositories",
-            "description": "Understanding the basic concepts of version control repositories."
-        }
+        "slug": "git-introduction",
+        "slug": "version-control-repositories"
     ],
     "related": [
     ]
